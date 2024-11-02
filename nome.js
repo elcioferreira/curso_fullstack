@@ -11,5 +11,5 @@ console.log("Exibir nome :"+ nome + sobrenome);
 exibirNome();
 function alerta(){
     alert("Voce apertou o botao");
-//teste
+ 
 }
